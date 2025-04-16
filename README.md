@@ -1,28 +1,48 @@
-# 👨‍💻 Pranayan Khan
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" /> Pranayan Khan
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop" alt="Developer Setup" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Full%20Stack%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20about%20creating%20innovative%20solutions&descAlignY=55&descAlign=50" alt="header">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Java+Developer;B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Always+Learning+New+Technologies;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Pranayan-089&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> <strong>About Me</strong>
+</div>
+
 > Passionate Full Stack Java Developer from Raniganj, West Bengal, India. Currently pursuing my B.Tech degree with a focus on building robust and scalable applications. I believe in the power of technology to solve real-world problems and am constantly expanding my knowledge in the field of software development.
 
-## 💼 Currently Working On
-- **Hospital Management System (HMS)**
-  - A comprehensive healthcare solution
-  - Features patient management, appointment scheduling, and billing
-  - Built with Java, Spring Boot, and modern web technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <strong>Current Projects</strong>
+</div>
 
-- **Employee Management System (EMS)**
-  - Enterprise-grade workforce management platform
-  - Includes attendance tracking and performance evaluation
-  - Developed using Java and Spring Framework
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hospital.png" alt="Hospital" width="40" height="40" /><br>
+      <strong>Hospital Management System</strong><br>
+      <sub>Comprehensive healthcare solution with patient management, scheduling & billing</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="EMS" width="40" height="40" /><br>
+      <strong>Employee Management System</strong><br>
+      <sub>Enterprise workforce platform with attendance & performance tracking</sub>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> <strong>Tech Stack</strong>
+</div>
+
 <div align="center">
 
 ### Languages & Frameworks
@@ -50,24 +70,35 @@
 
 </div>
 
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranayan-089&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranayan-089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> <strong>GitHub Stats</strong>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranayan-089&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranayan-089&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranayan-089&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranayan-089&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> <strong>Current Focus</strong>
+</div>
+
 - Mastering Spring Framework and its ecosystem
 - Exploring advanced Java concepts and design patterns
 - Contributing to open-source projects
 - Enhancing frontend development skills
 
-## 📫 Connect With Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> <strong>Connect With Me</strong>
+</div>
+
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranayan-089.github.io/personal-portfolio/)
@@ -78,15 +109,15 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranayan-089&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranayan-089&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
 </div>
 
