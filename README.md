@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="right" height="270" width="400" alt="GIF" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Pranayan Khan</h1>
 <h3 align="center">A passionate Full Stack JAVA developer from India</h3>
 
@@ -7,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/pranayan_2004" target="blank"><img src="https://img.shields.io/twitter/follow/pranayan_2004?logo=twitter&style=for-the-badge" alt="pranayan_2004" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/Pranayan-089/HMS)
+- 🔭 I'm currently working on [Hospital Management System](https://github.com/Pranayan-089/HMS)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I'm currently learning **Spring**
 
-- 👯 I’m looking to collaborate on **JAVA backend based projects**
+- 👯 I'm looking to collaborate on **JAVA backend based projects**
 
-- 🤝 I’m looking for help with [Employee Management System](https://github.com/Pranayan-089/EMS)
+- 🤝 I'm looking for help with [Employee Management System](https://github.com/Pranayan-089/EMS)
 
 - 💬 Ask me about **SpringBoot,sql,Hibernate**
 
